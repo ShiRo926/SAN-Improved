@@ -1,2 +1,2 @@
 # SAN Improved
-A Merged Mod that Combines Cleoude's CCF, UnitedMel's DMCA, and Rixgeo's SIM (See releases tab for more details.)
+A Merged Mod that Combines Cleoude's CCF, UnitedMel's DMCA, and Story Mode 2.0 (See releases tab for more details.)
